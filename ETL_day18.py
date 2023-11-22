@@ -3,7 +3,6 @@
 #3. M. Arif Rahman
 #4. Noer Amalia Puspita
 #5. Nurhayati
-#6. Rahman Zuhri Maulana
 
 
 from airflow import DAG
